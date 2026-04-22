@@ -72,6 +72,7 @@ Solar PV operators need to detect underperformance quickly — but distinguishin
 - Stacked area charts of daily flag counts per system
 - Calendar heatmaps showing temporal distribution of anomalies
 - Cross-system daily PR comparison
+- [Power Bi Dashbaord](https://app.powerbi.com/view?r=eyJrIjoiZTQ1N2RmYzQtZDJmNS00ZDdkLWE4NzItM2Q4MmVlOWU2MmM0IiwidCI6IjMxNGE4NjhkLTc4OWUtNDRhMC1hMTBmLTc1OTNkNjI0MzhiYSJ9&pageName=34a4f6ac2df63348c435)
 
 ## How to Run
 
